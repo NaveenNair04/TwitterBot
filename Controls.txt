@@ -1,0 +1,8 @@
+1.WASD to move
+2.Space to jump
+3.'s' to charge chakra
+4.'q' for sword attack-three hit combo with final attack using 2 chakra
+5.'e' for kick
+6.'c' to use chidori-15 chakra
+7.'v' to use chidori tousen-10 chakra
+8.'b' to use snake fist-5 chakra

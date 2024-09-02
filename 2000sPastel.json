@@ -1,0 +1,81 @@
+ {
+     "defaults":
+     {
+         "colours":
+         {
+             "normal_bg":"#bee8e8",
+             "hovered_bg":"#bee8e8",
+             "disabled_bg":"#25292e",
+             "selected_bg":"#193754",
+             "dark_bg":"#15191e",
+             "normal_text":"#c5cbd8",
+             "hovered_text":"#FFFFFF",
+             "selected_text":"#FFFFFF",
+             "disabled_text":"#6d736f",
+             "link_text": "#0000EE",
+             "link_hover": "#2020FF",
+             "link_selected": "#551A8B",
+             "text_shadow": "#777777",
+             "normal_border": "#DDDDDD",
+             "hovered_border": "#B0B0B0",
+             "disabled_border": "#808080",
+             "selected_border": "#8080B0",
+             "active_border": "#8080B0",
+             "filled_bar":"#f4251b",
+             "unfilled_bar":"#CCCCCC"
+         }
+     },
+
+     "button":
+     {
+         "colours":
+         {
+             "normal_bg":"#bee8e8",
+             "hovered_bg":"#acd1f0",
+             "disabled_bg":"#25292e",
+             "selected_bg":"#bee8e8",
+             "active_bg":"#193754",
+             "dark_bg":"#15191e",
+             "normal_text":"#00000",
+             "hovered_text":"#00000",
+             "selected_text":"#00000",
+             "disabled_text":"#6d736f",
+             "active_text":"#00000",
+             "normal_border": "#DDDDDD",
+             "hovered_border": "#B0B0B0",
+             "disabled_border": "#808080",
+             "selected_border": "#8080B0",
+             "active_border": "#8080B0"
+         },
+
+         "misc":
+         {
+             "tool_tip_delay": "1.5"
+         }
+     },
+     "window":
+     {
+     	"colours":
+     	{
+        	"dark_bg":"#004c4c",
+        	"normal_border": "#b2d8d8"
+        },
+
+        "misc":
+        {
+        	"shape": "rounded_rectangle",
+        	"shape_corner_radius": "10",
+        	"border_width": "1",
+        	"shadow_width": "15",
+        	"title_bar_height": "20"
+        }
+      },
+      "window.#title_bar":
+      {
+      	"misc":
+      	{
+        	"text_horiz_alignment": "center"
+      	}
+      }
+      
+ }
